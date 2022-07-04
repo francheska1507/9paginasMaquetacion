@@ -1,0 +1,27 @@
+.caja1{
+    background-color: lightslategrey;
+}
+.search{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url(/img/kfcconfrase.png);
+    background-size: contain;
+    height: 400px;
+}
+.search2{
+    width: 400px;
+}
+.img2pag6{
+    height: 250px;
+    width: 250px;
+}
+.img3pag6{
+    height: 70px;
+}
+.pag6-1{
+    font-size: 12px;
+}
+.hr{
+    visibility: hidden;
+}

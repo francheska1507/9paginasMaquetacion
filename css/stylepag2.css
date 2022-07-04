@@ -1,0 +1,49 @@
+.caja1pag2{
+    color: aliceblue;
+}
+.caja1pag2 h4{
+    margin-top: 25px;
+}
+.img1pag2{
+    display: flex;
+    justify-content: center;
+    height: 160px;
+    width: 110;
+    margin: 30px 0;
+}
+.caja2pag2{
+    height: 545px;
+    width: 1600px;
+    background-image: url(../img/kitkfcprom.jpg.crdownload);
+    background-size: contain;
+}
+.img2pag{
+    height: 100px;
+}
+.caja2pag2{
+    margin-top: 25px;
+}
+.caja3pag2{
+    padding: 20px 0;
+}
+.caja2pag2c1{
+    font-size: 30px;
+    color: aliceblue;
+}
+.caja2pag2c2{
+    color: aliceblue;
+    font-size: 12px;
+    text-align: justify;
+    padding: 0 10px;
+}
+.caja2pag2c2col{
+    display: flex;
+    justify-content: space-between;
+}
+.caja2pag2c2 p{
+    font-size: 14px;
+}
+.caja1pag2 p{
+    font-size: 23px;
+    color: black;
+}

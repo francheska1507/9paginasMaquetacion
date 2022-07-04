@@ -1,0 +1,19 @@
+.imgspag7{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.img2pag7{
+    height: 90px;
+}
+.img3pag7{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.imgabpag7{
+    height: 110px;
+}
+.pt-10{
+    padding-top: 150px;
+}

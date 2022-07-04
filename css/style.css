@@ -1,0 +1,34 @@
+@import url(styleInicio.css);
+@import url(stylepag1.css);
+@import url(stylepag2.css);
+@import url(stylepag3.css);
+@import url(stylepag4.css);
+@import url(stylepag5.css);
+@import url(stylepag6.css);
+@import url(stylepag7.css);
+@import url(stylepag8.css);
+:root{
+    
+    --clr-gray:rgba(75, 73, 73, 0.822);
+    --clr-darkgrey:rgb(72 ,72, 72);
+    --clr-grey:rgb(108, 104, 104);
+    --clr-lightslategrey:darkgrey;
+    
+}
+*{
+    box-sizing: border-box;
+}
+body{
+    padding: o;
+    margin: 0;
+}
+nav{
+    background-color: var(--clr-grey);
+    border-bottom: 1px solid black;
+}
+main{
+    background-color: var(--clr-gray);
+}
+.grey{
+    background-color: var(--clr-lightslategrey);
+}

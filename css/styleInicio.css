@@ -1,0 +1,36 @@
+.darkgrey{
+    background-color:darkgrey;
+}
+.caja1{
+    height: 300px;
+}
+.caja2{
+    background-color:lightslategrey;
+}
+.caja2-1{
+    height: 140px;
+    padding: 25px 20px;
+}
+.frasekfc{
+    height: 130px;
+    margin: 30px;
+}
+.imginicio2{
+    height: 140px;
+    margin: 30px;
+}
+.h4-1{
+    margin: 0 20px;
+}
+.h4-2{
+    margin: 0 20px;
+    color: brown;
+}
+.textolorem{
+    font-size: 14px;
+    margin: 20px;
+    margin-top: 0;
+}
+.collapse{
+    color:darkslategrey;
+}
