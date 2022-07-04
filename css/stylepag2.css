@@ -7,14 +7,14 @@
 .img1pag2{
     display: flex;
     justify-content: center;
-    height: 160px;
-    width: 110;
+    height: 140px;
+    width: 90;
     margin: 30px 0;
 }
 .caja2pag2{
     height: 545px;
-    width: 1600px;
-    background-image: url(../img/kitkfcprom.jpg.crdownload);
+   
+    background-image: url(../img/promograndekfc.png);
     background-size: contain;
 }
 .img2pag{
@@ -46,4 +46,7 @@
 .caja1pag2 p{
     font-size: 23px;
     color: black;
+}
+.bg{
+    background-color:rgb(156, 154, 154);
 }
